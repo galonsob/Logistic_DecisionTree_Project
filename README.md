@@ -8,7 +8,7 @@ This project addresses the high rate of hotel booking cancellations and no-shows
 - Develop and evaluate **predictive models** to classify whether a booking will be canceled.  
 - Provide **business insights** to support cancellation/refund policy design and improve operational efficiency.  
 
-## 🛠Methodology  
+## Methodology  
 - **Data preprocessing & feature engineering** (handling categorical features, missing values, encoding).  
 - **Exploratory Data Analysis (EDA)** with visualizations to detect trends and correlations.  
 - **Model building & evaluation:** Logistic Regression, Random Forest, Gradient Boosting, and comparison of performance metrics (Accuracy, Precision, Recall, F1-score).  
